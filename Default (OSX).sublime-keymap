@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+c"], "command": "clipboard2nd", "args": {"action": "copy"} },
+	{ "keys": ["super+shift+x"], "command": "clipboard2nd", "args": {"action": "cut"} },
+	{ "keys": ["super+shift+v"], "command": "clipboard2nd", "args": {"action": "paste"} }
+]

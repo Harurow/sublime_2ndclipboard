@@ -1,0 +1,15 @@
+[
+	{ "caption": "-", "id": "2nd_clipboard-start-separator" },
+	{
+		"caption": "2ndClipboard",
+		"id": "2nd_clipboard",
+		"children": [
+			{ "caption": "-" },
+			{ "caption": "Copy", "command": "clipboard2nd", "args": {"action": "copy" }},
+			{ "caption": "Cut", "command": "clipboard2nd", "args": {"action": "cut"} },
+			{ "caption": "Paste", "command": "clipboard2nd", "args": {"action": "paste"} },
+			{ "caption": "-" }
+		]
+	},
+	{ "caption": "-", "id": "2nd_clipboard-end-separator" }
+]

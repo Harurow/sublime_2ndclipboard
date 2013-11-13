@@ -1,0 +1,17 @@
+[
+	{
+		"caption": "2ndClipboard: Copy",
+		"command": "clipboard2nd",
+		"args": {"action": "copy"}
+	},
+	{
+		"caption": "2ndClipboard: Cut",
+		"command": "clipboard2nd",
+		"args": {"action": "cut"}
+	},
+	{
+		"caption": "2ndClipboard: Paste",
+		"command": "clipboard2nd",
+		"args": {"action": "paste"}
+	}
+]

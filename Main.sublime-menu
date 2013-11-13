@@ -1,0 +1,23 @@
+[
+	{
+		"caption": "Edit",
+		"mnemonic": "E",
+		"id": "edit",
+		"children":
+		[
+			{
+				"caption": "2nd Clipboard",
+				"mnemonic": "2",
+				"id": "2nd_clipboard",
+				"children":
+				[
+					{ "caption": "-" },
+					{ "caption": "Copy", "command": "clipboard2nd", "args": {"action": "copy" }},
+					{ "caption": "Cut", "command": "clipboard2nd", "args": {"action": "cut"} },
+					{ "caption": "Paste", "command": "clipboard2nd", "args": {"action": "paste"} },
+					{ "caption": "-" }
+				]
+			}
+		]
+	}
+]
