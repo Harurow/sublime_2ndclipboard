@@ -16,10 +16,6 @@ Plug-in not pollute default clipboard. Multi-selection support.
 
 ## How to Install ##
 
-With [Package Control](https://sublime.wbond.net/installation):
-
-1. Run “Package Control: Install Package” command, find and install `2ndClipboard` plugin.
-
 Manually:
 
 1. Clone or [download](https://github.com/Harurow/sublime_2ndclipboard/archive/master.zip) git repo into your packages folder (in ST, find Browse Packages... menu item to open this folder)
